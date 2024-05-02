@@ -10,6 +10,15 @@
 2. Used middleware for authentication and authorization.
 3. Added password visibility toggle.
 
+# Best Practices Followed:
+1. Enforced input validation and sanitization to prevent vulnerabilities.
+2. Protect against brute force attacks.
+3. Securely store passwords using strong hashing algorithm i.e. bcrypt.
+4. Implemented proper error handling and provided informative error messages.
+5. Writeen clean, well-structured, and documented code.
+6. Used environment variables for sensitive information.
+7. Handled sessions and token expiration effectively.
+
 
 
 # Signup Page
